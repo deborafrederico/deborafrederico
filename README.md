@@ -29,5 +29,5 @@ Aplicação simples de chat desenvolvida para prática de lógica e estrutura de
 Atuar na área de tecnologia como desenvolvedora, aplicando análise de dados e automação para resolver problemas reais e gerar valor para o negócio.
 
 ## 📫 Contato
-- LinkedIn: <seu-link>
+- LinkedIn: [Bem-vindo!!](https://www.linkedin.com/in/debora-frederico/)
 - Email: deborafrederico1@outlook.com
