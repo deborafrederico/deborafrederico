@@ -1,33 +1,40 @@
 # Olá, eu sou a Débora 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência como estagiária de desenvolvimento e vivência em Customer Experience (CX).
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência prática como estagiária de desenvolvimento com foco em análise de dados, melhoria de processos e suporte a sistemas.
 
-Tenho perfil analítico e foco em construção de soluções com Python, automação de processos e análise de dados, sempre buscando melhorar eficiência e experiência do usuário.
+Tenho vivência em Customer Experience (CX), o que me permite unir tecnologia com visão de negócio e experiência do usuário.
 
-## 💻 Tecnologias e Ferramentas
+## 💻 O que eu faço
+- Automação de processos com Python
+- Análise de dados para geração de insights
+- Monitoramento de indicadores (NPS, retenção, satisfação)
+- Suporte e melhoria de sistemas internos
+- Organização e tratamento de dados
+
+## 🚀 Experiência prática
+Durante meu estágio na Vertem:
+- Analisei dados e feedbacks de usuários para melhorar sistemas
+- Acompanhei KPIs como NPS e satisfação do cliente
+- Identifiquei problemas em fluxos operacionais e ajudei na solução
+- Apoiei melhorias em processos internos com base em dados
+- Atuei em conjunto com times técnicos e de atendimento
+
+## 📊 Tecnologias e ferramentas
 - Python
-- JavaScript
-- Power BI
 - Excel
+- Power BI
+- JavaScript (básico)
 - Git e GitHub
 
-## 🚀 Projetos em destaque
-
-### 🔹 Automação de Cadastro de Produtos
-Automação em Python para otimizar o processo de cadastro de produtos, reduzindo tempo manual e erros operacionais.  
-👉 <link-do-repositorio>
-
-### 🔹 Análise de Dados
-Projeto focado em análise de dados com geração de insights para tomada de decisão.  
-👉 <link-do-repositorio>
-
-### 🔹 Aplicação de Chat
-Aplicação simples de chat desenvolvida para prática de lógica e estrutura de sistemas.  
-👉 <link-do-repositorio>
+## 📌 Projetos em destaque
+- Automação de tarefas com Python
+- Análise de dados para geração de insights
+- Projeto de score de crédito (estudo de machine learning)
+- Projetos práticos para lógica de programação
 
 ## 🎯 Objetivo
-Atuar na área de tecnologia como desenvolvedora, aplicando análise de dados e automação para resolver problemas reais e gerar valor para o negócio.
+Busco oportunidade como desenvolvedora júnior ou estágio em tecnologia, com foco em dados, automação e melhoria de processos.
 
 ## 📫 Contato
-- LinkedIn: [Bem-vindo!!](https://www.linkedin.com/in/debora-frederico/)
+- LinkedIn: [Aqui](https://www.linkedin.com/in/debora-frederico/)
 - Email: deborafrederico1@outlook.com
